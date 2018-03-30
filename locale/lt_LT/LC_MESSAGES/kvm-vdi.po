@@ -68,7 +68,7 @@ msgstr "Sukurti naują administratorių"
 
 #: kvm-vdi/add_credential.php:35
 msgid "Add new client"
-msgstr "Sukusti naują klientą"
+msgstr "Sukurti naują klientą"
 
 #: kvm-vdi/add_credential.php:42 kvm-vdi/list_credentials.php:54
 msgid "Username"
@@ -211,11 +211,11 @@ msgstr "Valdyti telkinius"
 
 #: kvm-vdi/dashboard.php:244 kvm-vdi/manage_vm_pool.php:22
 msgid "Add VMs to pool"
-msgstr "Prodėti VM į telkinį"
+msgstr "Pridėti VM į telkinį"
 
 #: kvm-vdi/dashboard.php:245 kvm-vdi/manage_client_pool.php:23
 msgid "Add clients to pool"
-msgstr "Pridėti klietus į telkinį"
+msgstr "Pridėti klientus į telkinį"
 
 #: kvm-vdi/dashboard.php:248
 msgid "Add AD group to pool"
@@ -402,7 +402,7 @@ msgid "System info:"
 msgstr "Sistemos informacija:"
 
 msgid "Create virtual machine(s)"
-msgstr "Sukurti virutalią mašiną(s)"
+msgstr "Sukurti virtualią mašiną(s)"
 
 msgid "Source image"
 msgstr "Šaltinio mašina"
@@ -416,3 +416,17 @@ msgstr "Operacijos"
 msgid "OS type/Status/Used by"
 msgstr "OS tipas/statusas/vartotojas"
 
+msgid "Number of machines to create:"
+msgstr "Norimas mašinų kiekis:"
+
+msgid "none"
+msgstr "nepriskirta"
+
+msgid "Pool size:"
+msgstr "VDV telkinyje:"
+
+msgid "Available:"
+msgstr "Laisvų VDV:"
+
+msgid "Create VMs"
+msgstr "Kurti mašinas"
